@@ -1,2 +1,2 @@
 # BreastCancer
-it is my practice of ml during lockdown
+it is my practice of ml during lockdown Logistic regression.
